@@ -1,4 +1,4 @@
-# The Apple 401 Color Plotter
+# The Apple 410 Color Plotter
 
 ## Quick introduction and apology
 
